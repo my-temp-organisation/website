@@ -4,6 +4,9 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+#MAC OS files
+*.DS
+
 # Other files and folders
 .settings/
 
